@@ -1,0 +1,20 @@
+[
+  {
+    "infyEmployeeName": "Amit",
+    "infyEmployeeDoB": "1990-04-01T00:00:00.000Z",
+    "infyEmployeeDesignation": "STP",
+    "infyEmployeeCity": "Bankura"
+  },
+  {
+    "infyEmployeeName": "Satyajit",
+    "infyEmployeeDoB": "1997-05-01T00:00:00.000Z",
+    "infyEmployeeDesignation": "SDE2",
+    "infyEmployeeCity": "Kolkata"
+  },
+  {
+    "infyEmployeeName": "Sourav",
+    "infyEmployeeDoB": "1997-03-01T00:00:00.000Z",
+    "infyEmployeeDesignation": "SSE",
+    "infyEmployeeCity": "Kolkata"
+  }
+]
